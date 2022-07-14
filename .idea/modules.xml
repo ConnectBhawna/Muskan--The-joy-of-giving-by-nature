@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Muskan.iml" filepath="$PROJECT_DIR$/.idea/modules/Muskan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Muskan.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Muskan.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Muskan.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Muskan.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Muskan.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Muskan.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Muskan.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Muskan.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
