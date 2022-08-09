@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Muskan</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="google_signin">Google SignIn</string>
+    <string name="facebook_signin">Facebook SignIn</string>
+    <string name="twitter_sign_in">Twitter Sign In</string>
+    <string name="proceed">Proceed</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="Register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="toggle_password">Toggle Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an Account ?</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="first_name">First Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="last_name">Last Name</string>
+    <string name="address">Address</string>
+    <string name="address_line_1">Address Line 1</string>
+    <string name="pinCode">Pincode</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="skip_for_now">Skip For Now</string>
 </resources>
