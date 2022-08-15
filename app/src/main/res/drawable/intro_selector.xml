@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <shape
+
+            android:shape="rectangle"
+            android:useLevel="false"
+
+            >
+            <size android:width="15dp" />
+
+            <solid
+
+                android:color="@color/app_orange"
+                />
+
+            <corners android:radius="5dp"/>
+        </shape>
+    </item>
+
+    <item >
+        <shape
+            android:innerRadius="0dp"
+            android:shape="ring"
+            android:thickness="3dp"
+            android:useLevel="false"
+            >
+
+            <solid
+                android:color="#7E020202"
+                />
+        </shape>
+    </item>
+
+</selector>
