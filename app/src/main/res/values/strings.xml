@@ -27,6 +27,7 @@
     <string name="state">State</string>
     <string name="country">Country</string>
     <string name="skip_for_now">Skip For Now</string>
+    <string name="get_started">Get Started</string>
     <string name="action_favorite">Favourite</string>
     <string name="action_settings">Settings</string>
 </resources>
