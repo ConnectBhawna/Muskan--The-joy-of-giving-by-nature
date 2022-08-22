@@ -1,9 +1,49 @@
-# Contributing to Muskan--The-joy-of-giving-by-nature
-=====================
+# Muskan - The joy of giving by nature
 
-**Muskan** is an open-source and you're welcome to contribute to it. You're encouraged to submit [pull requests](https://github.com/Bhawna1203/Muskan--The-joy-of-giving-by-nature ), [propose features and discuss issues](https://github.com/Bhawna1203/Muskan--The-joy-of-giving-by-nature ).
 
-**Muskan--The-joy-of-giving-by-nature** is a beginner friendly project. If you're new to open source, or coding, or git, we're happy to help you get started! Look for new issues or where you can contribute asking how you can help.  We'll walk you through the steps needed to contribute to the project.
+![Now in Android](docs/images/nia-splash.jpg "Now in Android")
+
+[Work in progress 🚧]
+==================
+
+**Muskan App** is a fully functional Android app built with Kotlin, Java and XML. 
+(Muskan- The joy of giving by nature) i.e, App that helps marriage/party halls and individuals 
+to connect to the nearest places where this food could feed those in need and food wastage is minimised.
+
+The app is currently in early stage development and is not yet available on the Play Store.
+
+# Features
+
+**Now in Android** displays content from the
+[Now in Android](https://developer.android.com/series/now-in-android) series. Users can browse for
+links to recent videos, articles and other content. Users can also follow topics they are interested
+in or follow specific authors.
+
+## Screenshots
+
+![Screenshot showing For You screen](docs/images/screenshot-1-foryou.png "Screenshot showing For You screen") 
+![Screenshot showing Interests screen](docs/images/screenshot-2-interests.png "Screenshot showing Interests screen") 
+![Screenshot showing Topic detail screen](docs/images/screenshot-3-topicdetail.png "Screenshot showing Topic detail screen")
+
+
+
+## Prerequisites
+
+### System requirements
+
+1. Any system with basic configuration.
+2. Operating System: Windows / Linux / Mac
+
+### Software requirements
+
+1. Android Studio (If not, download it [here](https://developer.android.com/studio/)).
+
+### Skill requirement
+
+* Basic Knowledge of Git & GitHub.
+* Familiar with Kotlin
+* Java
+* XML
 
 #### Fork the Project
 
@@ -88,6 +128,10 @@ Everything should be fine if your PR is green and successfully merged or code ch
 
 It's likely that your change will not be merged and that the nitpicky maintainers will ask you to do more, or fix seemingly benign problems like [choices of variable names](https://quotesondesign.com/phil-karlton/). Hang in there!
 
-#### Thank You
 
-Please do know that we really appreciate and value your time and work. Thank you for your Contribution!!
+## Thanks to all the contributors ❤️
+Every contributor's efforts and time are deeply appreciated! Thank you. :smile:
+
+<a href="https://github.com/Bhawna1203/Muskan--The-joy-of-giving-by-nature/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Bhawna1203/Muskan--The-joy-of-giving-by-nature" />
+</a>
