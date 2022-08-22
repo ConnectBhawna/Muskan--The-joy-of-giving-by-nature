@@ -5,6 +5,25 @@
 
 **Muskan--The-joy-of-giving-by-nature** is a beginner friendly project. If you're new to open source, or coding, or git, we're happy to help you get started! Look for new issues or where you can contribute asking how you can help.  We'll walk you through the steps needed to contribute to the project.
 
+
+## Prerequisites
+
+### System requirements
+
+1. Any system with basic configuration.
+2. Operating System: Windows / Linux / Mac
+
+### Software requirements
+
+1. Android Studio (If not, download it [here](https://developer.android.com/studio/)).
+
+### Skill requirement
+
+* Basic Knowledge of Git & GitHub.
+* Familiar with Kotlin
+* Java
+* XML
+
 #### Fork the Project
 
 Fork the project on Github by clicking on the word "Fork" above and to the right of this page.  This will create your own fork at https://github.com/yournamehere/Muskan--The-joy-of-giving-by-nature.git.  Then clone your fork to your local repository on your machine and set up a [triangle workflow](https://github.com/forwards/first-contributions/blob/master/additional-material/git_workflow_scenarios/keeping-your-fork-synced-with-this-repository.md)
@@ -88,11 +107,9 @@ Everything should be fine if your PR is green and successfully merged or code ch
 
 It's likely that your change will not be merged and that the nitpicky maintainers will ask you to do more, or fix seemingly benign problems like [choices of variable names](https://quotesondesign.com/phil-karlton/). Hang in there!
 
-#### Thank You
-
-Please do know that we really appreciate and value your time and work. Thank you for your Contribution!!
 
 ## Thanks to all the contributors ❤️
+Every contributor's efforts and time are deeply appreciated! Thank you. :smile:
 
 <a href="https://github.com/Bhawna1203/Muskan--The-joy-of-giving-by-nature/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Bhawna1203/Muskan--The-joy-of-giving-by-nature" />
