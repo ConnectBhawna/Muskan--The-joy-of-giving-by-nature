@@ -20,11 +20,11 @@ links to recent videos, articles and other content. Users can also follow topics
 in or follow specific authors.
 
 ## Screenshots
-
-![Screenshot showing For splash screen](Screenshots/Splash screen.png "Screenshot showing splash screen") 
-![Screenshot showing Login screen](Screenshots/Login.png "Screenshot showing Login screen") 
-![Screenshot showing Register screen](Screenshots/Register.png "Screenshot showing Register screen")
-
+<div style="display:flex;">
+<img alt="App image" src="Screenshots/Splash screen.png" width="30%">
+<img alt="App image" src="Screenshots/Login.png" width="30%">
+<img alt="App image" src="Screenshots/Register.png" width="30%">
+</div>
 
 
 ## Prerequisites
