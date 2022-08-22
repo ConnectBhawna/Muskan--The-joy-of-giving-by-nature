@@ -10,14 +10,6 @@
 (Muskan- The joy of giving by nature) i.e, App that helps marriage/party halls and individuals 
 to connect to the nearest places where this food could feed those in need and food wastage is minimised.
 
-The app is currently in early stage development and is not yet available on the Play Store.
-
-# Features
-
-**Now in Android** displays content from the
-[Now in Android](https://developer.android.com/series/now-in-android) series. Users can browse for
-links to recent videos, articles and other content. Users can also follow topics they are interested
-in or follow specific authors.
 
 ## Screenshots
 <div style="display:flex;">
@@ -45,46 +37,24 @@ in or follow specific authors.
 * Java
 * XML
 
+## Contributing
 
 ## Setting up a local environment
 
 ### Forking repository
 
 1. Firstly to make your copy of the project you have to fork the repository. To fork the repository, press the fork button. In case of any difficulties, refer to the image below
-    ![fork](https://raw.githubusercontent.com/commclassroom/classroom-monitor-bot/main/doc/images/Fork.jpg)
+    <img alt="App image" src="Screenshots/folk image.png" >
 
 ### Clone repository
 
 1. Now after you have forked the project, it's time to clone it into your local device so that you can work properly.
 2. In your forked repository click on the green code button and copy the provided link. In case of any difficulties, refer to the image below
-    ![clone](https://raw.githubusercontent.com/commclassroom/classroom-monitor-bot/main/doc/images/Clone.jpg)
+    <img alt="App image" src="Screenshots/clone img.png" >
 
-3. Now on your desktop open Git Bash and type `git clone <your-clone-url>.git`, and press enter
+3. Now on your desktop open Git Bash and type `git clone https://github.com/yournamehere/Muskan--The-joy-of-giving-by-nature.git`, and press enter
 4. Now, your forked repository has been cloned in your device! 🎉
 
-## Contributing
-
-Before getting started, make sure you have Developer Mode enabled in your Discord.
-If you're not sure how to enable it, go to `Settings > Advanced > Developer Mode: ON`
-
-### Creating a branch
-
-Whenever you want to contribute to any project, it is a good practice to make a separate branch and push it as a PR, rather than making changes to the main/master branch.
-
-1. `git checkout -b <your-branch-name>` will make a separate branch and will change to that branch
-2. Now you are ready to make your changes.
-
-
-#### Fork the Project
-
-Fork the project on Github by clicking on the word "Fork" above and to the right of this page.  This will create your own fork at https://github.com/yournamehere/Muskan--The-joy-of-giving-by-nature.git.  Then clone your fork to your local repository on your machine and set up a [triangle workflow](https://github.com/forwards/first-contributions/blob/master/additional-material/git_workflow_scenarios/keeping-your-fork-synced-with-this-repository.md)
-
-using these commands:
-```
-git clone https://github.com/yournamehere/Muskan--The-joy-of-giving-by-nature.git
-cd Muskan--The-joy-of-giving-by-nature
-git remote add upstream https://github.com/Bhawna1203/Muskan--The-joy-of-giving-by-nature.git
-```
 
 #### Create a Branch for your feature
 
@@ -152,7 +122,7 @@ git push origin my-feature-branch -f
 #### Check on Your Pull Request
 
 Go back to your pull request after a few minutes/days and see whether it passed the code-review 
-Everything should be fine if your PR is green and successfully merged or code changes will be requested by the maintainers.
+Everything should be fine if your PR is green ✅ and successfully merged or code changes will be requested by the maintainers.
 
 #### Be Patient
 
