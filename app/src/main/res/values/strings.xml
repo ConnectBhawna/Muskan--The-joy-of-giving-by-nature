@@ -28,4 +28,9 @@
     <string name="country">Country</string>
     <string name="skip_for_now">Skip For Now</string>
     <string name="get_started">Get Started</string>
+
+    <!-- to toggle the open close button of the navigation drawer -->
+        <string name="nav_open">Open</string>
+        <string name="nav_close">Close</string>
+
 </resources>
