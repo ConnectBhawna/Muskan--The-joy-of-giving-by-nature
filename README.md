@@ -1,20 +1,60 @@
-# Contributing to Muskan--The-joy-of-giving-by-nature
-=====================
+# Muskan - The joy of giving by nature
 
-**Muskan** is an open-source and you're welcome to contribute to it. You're encouraged to submit [pull requests](https://github.com/Bhawna1203/Muskan--The-joy-of-giving-by-nature ), [propose features and discuss issues](https://github.com/Bhawna1203/Muskan--The-joy-of-giving-by-nature ).
 
-**Muskan--The-joy-of-giving-by-nature** is a beginner friendly project. If you're new to open source, or coding, or git, we're happy to help you get started! Look for new issues or where you can contribute asking how you can help.  We'll walk you through the steps needed to contribute to the project.
+![Muskan App](Screenshots/Splash.png "Header")
 
-#### Fork the Project
+[Work in progress 🚧]
+==================
 
-Fork the project on Github by clicking on the word "Fork" above and to the right of this page.  This will create your own fork at https://github.com/yournamehere/Muskan--The-joy-of-giving-by-nature.git.  Then clone your fork to your local repository on your machine and set up a [triangle workflow](https://github.com/forwards/first-contributions/blob/master/additional-material/git_workflow_scenarios/keeping-your-fork-synced-with-this-repository.md)
+**Muskan App** is a fully functional Android app built with Kotlin, Java and XML. 
+(Muskan- The joy of giving by nature) i.e, App that helps marriage/party halls and individuals 
+to connect to the nearest places where this food could feed those in need and food wastage is minimised.
 
-using these commands:
-```
-git clone https://github.com/yournamehere/Muskan--The-joy-of-giving-by-nature.git
-cd Muskan--The-joy-of-giving-by-nature
-git remote add upstream https://github.com/Bhawna1203/Muskan--The-joy-of-giving-by-nature.git
-```
+
+## Screenshots
+<div style="display:flex;">
+<img alt="App image" src="Screenshots/Splash screen.png" width="30%">
+<img alt="App image" src="Screenshots/Login.png" width="30%">
+<img alt="App image" src="Screenshots/Register.png" width="30%">
+</div>
+
+
+## Prerequisites
+
+### System requirements
+
+1. Any system with basic configuration.
+2. Operating System: Windows / Linux / Mac
+
+### Software requirements
+
+1. Android Studio (If not, download it [here](https://developer.android.com/studio/)).
+
+### Skill requirement
+
+* Basic Knowledge of Git & GitHub.
+* Familiar with Kotlin
+* Java
+* XML
+
+## Contributing
+
+## Setting up a local environment
+
+### Forking repository
+
+1. Firstly to make your copy of the project you have to fork the repository. To fork the repository, press the fork button. In case of any difficulties, refer to the image below
+    <img alt="App image" src="Screenshots/folk image.png" >
+
+### Clone repository
+
+1. Now after you have forked the project, it's time to clone it into your local device so that you can work properly.
+2. In your forked repository click on the green code button and copy the provided link. In case of any difficulties, refer to the image below
+    <img alt="App image" src="Screenshots/clone img.png" >
+
+3. Now on your desktop open Git Bash and type `git clone https://github.com/yournamehere/Muskan--The-joy-of-giving-by-nature.git`, and press enter
+4. Now, your forked repository has been cloned in your device! 🎉
+
 
 #### Create a Branch for your feature
 
@@ -82,12 +122,16 @@ git push origin my-feature-branch -f
 #### Check on Your Pull Request
 
 Go back to your pull request after a few minutes/days and see whether it passed the code-review 
-Everything should be fine if your PR is green and successfully merged or code changes will be requested by the maintainers.
+Everything should be fine if your PR is green ✅ and successfully merged or code changes will be requested by the maintainers.
 
 #### Be Patient
 
 It's likely that your change will not be merged and that the nitpicky maintainers will ask you to do more, or fix seemingly benign problems like [choices of variable names](https://quotesondesign.com/phil-karlton/). Hang in there!
 
-#### Thank You
 
-Please do know that we really appreciate and value your time and work. Thank you for your Contribution!!
+## Thanks to all the contributors ❤️
+Every contributor's efforts and time are deeply appreciated! Thank you. :smile:
+
+<a href="https://github.com/Bhawna1203/Muskan--The-joy-of-giving-by-nature/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Bhawna1203/Muskan--The-joy-of-giving-by-nature" />
+</a>
