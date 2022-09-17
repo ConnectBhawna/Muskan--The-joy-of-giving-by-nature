@@ -61,8 +61,9 @@ to connect to the nearest places where this food could feed those in need and fo
 Make sure your fork is up-to-date and create a topic branch for your feature or bug fix.  (The name `my-feature-branch` is an example. Choose whatever you like.)
 
 ```
-git checkout master
-git pull upstream master
+git checkout main
+git remote add upstream https://github.com/Bhawna1203/Muskan--The-joy-of-giving-by-nature.git
+git pull upstream main
 git checkout -b my-feature-branch
 ```
 
