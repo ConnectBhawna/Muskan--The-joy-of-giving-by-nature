@@ -10,18 +10,7 @@
     tools:context=".firstPage"
     tools:ignore="HardcodedText">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="128dp"
-            android:gravity="center"
-            android:text="Hi!! You are logged in"
-            android:textSize="18sp" />
-    </LinearLayout>
 
     <com.google.android.material.navigation.NavigationView
         android:layout_width="wrap_content"
@@ -34,14 +23,31 @@
         />
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:id="@+id/firstpageRl">
 
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#FFFAA075"></androidx.appcompat.widget.Toolbar>
+            android:background="#FFFAA075">
+        </androidx.appcompat.widget.Toolbar>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/toolbar"
+            >
 
-
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="Hi User!! logged in"
+                android:textSize="20dp" />
+        </LinearLayout>
     </RelativeLayout>
+
+
+
 </androidx.drawerlayout.widget.DrawerLayout>
