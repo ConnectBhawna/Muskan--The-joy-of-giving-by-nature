@@ -9,12 +9,11 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
-import android.view.View;
 import android.widget.Toast;
 
 import com.google.android.material.navigation.NavigationView;
 
-public class firstPage extends AppCompatActivity {
+public class adminActivity extends AppCompatActivity {
     NavigationView nav;
     DrawerLayout layout;
     androidx.appcompat.widget.Toolbar toolbar;
@@ -22,11 +21,11 @@ public class firstPage extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_first_page);
+        setContentView(R.layout.activity_admin);
         initViews();
         //navigation menu items click
         setSupportActionBar(toolbar);
-        toggle = new ActionBarDrawerToggle(firstPage.this,layout,toolbar,R.string.nav_open,R.string.nav_close);
+        toggle = new ActionBarDrawerToggle(adminActivity.this,layout,toolbar,R.string.nav_open,R.string.nav_close);
         layout.addDrawerListener(toggle);
         toggle.syncState();
 
@@ -38,20 +37,20 @@ public class firstPage extends AppCompatActivity {
 
                 switch (item.getItemId()){
                     case R.id.profile:
-                        Toast.makeText(firstPage.this,"Profile ",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(adminActivity.this,"Profile ",Toast.LENGTH_SHORT).show();
 
                         break;
                     case R.id.setting:
-                        Toast.makeText(firstPage.this,"Setting ",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(adminActivity.this,"Setting ",Toast.LENGTH_SHORT).show();
 
                         break;
                     case R.id.signOut:
-                        startActivity(new Intent(firstPage.this ,SignInActivity.class));
-                        Toast.makeText(firstPage.this,"SignOut ",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(adminActivity.this,"SignOut ",Toast.LENGTH_SHORT).show();
+                        startActivity(new Intent(adminActivity.this ,SignInActivity.class));
 
                         break;
                     case R.id.about:
-                        Toast.makeText(firstPage.this,"About us ",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(adminActivity.this,"About us ",Toast.LENGTH_SHORT).show();
                         break;
                     default :
                         return true;
@@ -65,9 +64,9 @@ public class firstPage extends AppCompatActivity {
 
     private void initViews() {
 
-        nav = findViewById(R.id.nav);
-        layout = findViewById(R.id.my_drawer_layout);
-        toolbar=findViewById(R.id.toolbar);
+        nav = findViewById(R.id.adminNav);
+        layout = findViewById(R.id.adminDrawerLayout);
+        toolbar=findViewById(R.id.adminToolbar);
 
     }
     @Override  //Back button closes drawer
