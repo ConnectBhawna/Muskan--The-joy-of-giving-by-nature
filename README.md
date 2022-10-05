@@ -8,7 +8,7 @@
 
 **Muskan App** is a fully functional Android app built with Kotlin, Java, Firebase, Firsbase Storage, Coroutine, Glide and XML. 
 (Muskan- The joy of giving by nature) i.e, App that helps marriage/party halls and individuals 
-to connect to the nearest place people who really need this food so that food wastage is minimised.
+to connect the nearest place people who really need this food so that food wastage is minimised.
 
 
 ## Screenshots
