@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-installations:17.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/caches/transforms-3/4310ea065bac81de7dca2d2e37f698a5/transformed/firebase-installations-17.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/caches/transforms-3/4310ea065bac81de7dca2d2e37f698a5/transformed/firebase-installations-17.0.2/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/caches/transforms-3/4310ea065bac81de7dca2d2e37f698a5/transformed/firebase-installations-17.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/caches/modules-2/files-2.1/com.google.firebase/firebase-installations/17.0.2/4824c5730ddc9dd74050559d9663cc0363bb9ad5/firebase-installations-17.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
