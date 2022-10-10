@@ -9,9 +9,9 @@ import com.example.muskan.databinding.IntroSliderBinding
 
 class IntroSliderAdapter(private val context: Context):PagerAdapter() {
     val pages = listOf<IntroClass>(
-        IntroClass("Heading 1","Welcome To Muskan an app for the joy of giving by nature. This will be the content to the heading"),
-        IntroClass("Heading 2","Welcome To Muskan an app for the joy of giving by nature. This will be the content to the heading"),
-        IntroClass("Heading 3","Welcome To Muskan an app for the joy of giving by nature. This will be the content to the heading"),
+        IntroClass("What we Do?","Rescue the food from marriage/party halls before it's thrown and help underprivileged people."),
+        IntroClass("Nearby","You can see the availability of food in marriage/party halls in your location. "),
+        IntroClass("Contributor","You can join us a Volunteer and feel satisfaction of serving needy people and nation."),
     )
     override fun getCount(): Int {
         return pages.size
