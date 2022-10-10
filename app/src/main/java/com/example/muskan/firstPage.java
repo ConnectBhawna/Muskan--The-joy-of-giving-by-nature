@@ -13,8 +13,6 @@ import android.view.View;
 import android.widget.Toast;
 
 import com.google.android.material.navigation.NavigationView;
-import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.firestore.FirebaseFirestore;
 
 public class firstPage extends AppCompatActivity {
     NavigationView nav;
@@ -48,7 +46,6 @@ public class firstPage extends AppCompatActivity {
 
                         break;
                     case R.id.signOut:
-                        FirebaseAuth.getInstance().signOut();
                         startActivity(new Intent(firstPage.this ,SignInActivity.class));
                         Toast.makeText(firstPage.this,"SignOut ",Toast.LENGTH_SHORT).show();
 
