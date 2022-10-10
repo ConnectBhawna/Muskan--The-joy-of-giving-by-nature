@@ -32,10 +32,6 @@ public class SignInActivity extends AppCompatActivity
 //        ActionBar actionbar = getSupportActionBar();
 //        actionbar.hide();
         mAuth=FirebaseAuth.getInstance();
-        if (mAuth.getCurrentUser()!=null){
-            Intent intent=new Intent(SignInActivity.this,firstPage.class);
-            startActivity(intent);
-        }
         test();
         //login details check
         email = findViewById(R.id.loginEmailId);
