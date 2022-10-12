@@ -1,6 +1,6 @@
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/fineanmol/hacktoberfest) , There we are merging the PR that solves the Issues. 
+# Submit your PR on this new repo [Hacktoberfest](https://github.com/fineanmol/hacktoberfest) , There we are merging the PR that solves the issues. 
 
-In this current repo, there are alot of conflicts, we are not merging until all conflicts get resolved.
+In this current repo, there are a lot of conflicts, we are not merging until all conflicts get resolved.
 
 
 **This is a beginner-friendly project to help you get started with your
@@ -145,7 +145,7 @@ Everything should be fine if your PR is green ✅ and successfully merged or cod
 
 #### Be Patient
 
-It's likely that your change will not be merged and that the nitpicky maintainers will ask you to do more, or fix seemingly benign problems like [choices of variable names](https://quotesondesign.com/phil-karlton/). Hang in there!
+It's likely that your change will not be merged and that the nitpick maintainers will ask you to do more, or fix seemingly benign problems like [choices of variable names](https://quotesondesign.com/phil-karlton/). Hang in there!
 
 
 ## Thanks to all the contributors ❤️
