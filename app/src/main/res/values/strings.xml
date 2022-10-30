@@ -35,5 +35,6 @@
     <!-- For Action Bar -->
     <string name="action_favorite">Favourite</string>
     <string name="action_settings">Settings</string>
+<!--    <string name="default_web_client_id">1070116726465-r22unrq9kv012uukqaeiorfvq09futnf.apps.googleusercontent.com</string>-->
 
 </resources>
